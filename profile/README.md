@@ -1,4 +1,4 @@
-<img src="../images/miajupiter-logo.png" width="100" />
+<img src="https://github.com/miajupiter/.github/raw/main/images/miajupiter-logo.png"  width="140" />
 
 # MiaJupiter Technology
 
