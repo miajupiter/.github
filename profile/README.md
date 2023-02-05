@@ -1,10 +1,16 @@
+<p align="center">
+<a href="https://miajupiter.com" _target="blank">
 <img src="https://github.com/miajupiter/.github/raw/main/images/miajupiter-logo.png"  width="400" />
+</a>
 
-# About
+----
+
+
+# About 👼🍼👩‍🍼
 
 We are developing software solutions for all mankind.
 
-Mia Jupiter is a startup company. He was born in 2023 and is still a **baby**. Like every baby, it needs milk to grow.
+Mia Jupiter is a startup company. It was born in 2023. It' s still a **baby**. It needs milk to grow, like every baby.
 
 
 ## Our mottos
