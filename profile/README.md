@@ -1,6 +1,4 @@
-<p align="center">
 <img src="../images/miajupiter-logo.png" width="100" />
-</p>
 
 # MiaJupiter Technology
 
