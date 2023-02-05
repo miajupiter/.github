@@ -1,0 +1,2 @@
+# .github
+For all mindkind
