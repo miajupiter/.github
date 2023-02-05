@@ -1,4 +1,4 @@
-<img src="https://github.com/miajupiter/.github/raw/main/images/miajupiter-logo.png"  width="256" />
+<img src="https://github.com/miajupiter/.github/raw/main/images/miajupiter-logo.png"  width="400" />
 
 # About
 
