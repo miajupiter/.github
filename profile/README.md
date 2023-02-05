@@ -7,8 +7,6 @@ We are developing software solutions for all mankind.
 Mia Jupiter is a startup company. He was born in 2023 and is still a **baby**. Like every baby, it needs milk to grow.
 
 
-
-
 ## Our mottos
 
 - Simplicity is a form of high intelligence.
