@@ -1,8 +1,8 @@
-<img src="https://github.com/miajupiter/.github/raw/main/images/miajupiter-icon.png"  width="140" />
+<img src="https://github.com/miajupiter/.github/raw/main/images/miajupiter-logo.png"  width="140" />
 
 # MiaJupiter
 
-MiaJupiter is a startup. company
+MiaJupiter is a startup. We develop software solutions for all mankind.
 
 ## Our mottos
 
