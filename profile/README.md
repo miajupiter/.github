@@ -5,7 +5,6 @@
 
 ----
 
-
 # About 👼🍼👩‍🍼
 
 We are developing software solutions for all mankind.
